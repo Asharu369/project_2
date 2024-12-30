@@ -5,7 +5,7 @@ from io import StringIO
 import base64
 
 # API URL
-API_BASE_URL = "http://127.0.0.1:8000"
+API_BASE_URL = "https://star-type-predictor-6jei.onrender.com"
 
 # Sample dataset file path
 SAMPLE_DATASET_FILE_PATH = "sample_dataset_csv.csv"
