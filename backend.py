@@ -8,7 +8,7 @@ import io
 from fastapi.middleware.cors import CORSMiddleware
 
 # Load the ML Pipeline
-model_path = r"\pipeline\pipeline_star_type_pred.joblib"
+model_path = r"pipeline\pipeline_star_type_pred.joblib"
 
 try:
     model_pipeline = joblib.load(model_path)
