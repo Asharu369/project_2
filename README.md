@@ -1,0 +1,1 @@
+##Star Type Predictor
