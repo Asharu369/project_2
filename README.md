@@ -2,6 +2,8 @@
 
 This [web application](https://startypespredictor.streamlit.app/) predicts star types based on various stellar characteristics using machine learning algorithms. It serves as an educational tool to understand classification models and their application in astronomy.
 
+Demonstration of the [web app](https://youtu.be/KNA4_j1u95I)
+
 ## Key Features
 
 - **Data Input**: Users can input stellar parameters such as temperature, luminosity, radius, and color.
